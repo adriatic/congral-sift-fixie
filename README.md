@@ -4,4 +4,4 @@ The [issues section](https://github.com/adriatic/congral-sift-fixie/issues) of t
 
 - [About project Tahoe](https://github.com/adriatic/congral-sift-fixie/issues/1)
 - [CodeGPT Chat analysis](https://github.com/adriatic/congral-sift-fixie/issues/2)
-
+- [Tahoe-VSCode features](https://github.com/adriatic/congral-sift-fixie/issues/3)
